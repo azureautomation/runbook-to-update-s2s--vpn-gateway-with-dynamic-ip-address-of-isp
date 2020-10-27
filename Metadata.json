@@ -1,0 +1,20 @@
+{
+    "Author": "WorkingHardInIt",
+    "ContentSize": 3820,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/runbook-to-update-s2s--vpn-gateway-with-dynamic-ip-address-of-isp/master/AzureRunBookUpdateDynamicIP-LabVPNGateway.ps1",
+    "DownloadCount": 1191,
+    "Id": "Runbook-to-update-S2S-VPN-e5b6050a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 455,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-3-24T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "When you\u2019re connecting a home (or perhaps even an office) lab\u00a0to Azure with a site-2-site VPN you\u2019ll probably have to deal with the fact that you have a dynamic IP assigned by your ISP. This means unless you update the VPN Gateway Address of your Azure local network in some aut",
+    "Title": "Runbook to update S2S  VPN Gateway with dynamic IP address of ISP",
+    "UpdatedDate": "2015-3-24T00:00:00",
+    "Url": "https://github.com/azureautomation/runbook-to-update-s2s--vpn-gateway-with-dynamic-ip-address-of-isp",
+    "UserTags": "Site-To-Site VPN Dynamic IP address"
+}
